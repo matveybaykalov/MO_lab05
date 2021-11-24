@@ -1,0 +1,3 @@
+/home/bayk/Optimization_methods/MO_lab05/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/bayk/Optimization_methods/MO_lab05/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/bayk/Optimization_methods/MO_lab05/cmake-build-debug/CMakeFiles/MO_lab05.dir

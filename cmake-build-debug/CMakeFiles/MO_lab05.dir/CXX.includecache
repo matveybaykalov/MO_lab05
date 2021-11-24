@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/bayk/Optimization_methods/MO_lab05/main.cpp
+iostream
+-
+cmath
+-
+vector
+-
+ctime
+-
+limits
+-
+iomanip
+-
+fstream
+-
+
